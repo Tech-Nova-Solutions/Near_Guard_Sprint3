@@ -16,6 +16,10 @@ O dispositivo mede distâncias em tempo real, exibindo os resultados em uma tela
 - Display LCD 16x2 com Interface I2C: Mostra a distância medida e mensagens de alerta.
 - FIWARE: Plataforma de backend implementada no servidor para gerenciar os dados do sensor.
 - Azure: O servidor em nuvem utilizado para hospedar o FIWARE.
+
+## DRAFT DA AQUITETURA
+ <img src="arqt_challenge.png"  />
+ 
 ## Materiais Necessários ⚒️
   ***HARDWARE***
 - Placa ESP32
@@ -56,3 +60,14 @@ O dispositivo mede distâncias em tempo real, exibindo os resultados em uma tela
 
 ### Execução no Servidor:
 O FIWARE na Azure pode ser acessado para monitorar e gerenciar os dados de proximidade enviados pela ESP32, com integração ao MQTT para transmissão contínua.
+
+## Links Úteis
+[WOKWI](https://wokwi.com/projects/409862054851292161)
+[Vídeo Explicativo]()
+
+## Autores
+- [Giulia Barbizan](https://github.com/Giulia-Rocha) RM:558084
+- [Felipe Marques](https://github.com/FelipeMarquesdeOliveira) RM:556319
+- [Gustavo Viega](https://github.com/Vieg4) RM:555885
+
+
