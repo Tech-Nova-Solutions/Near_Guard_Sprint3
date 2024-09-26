@@ -62,8 +62,8 @@ O dispositivo mede distâncias em tempo real, exibindo os resultados em uma tela
 O FIWARE na Azure pode ser acessado para monitorar e gerenciar os dados de proximidade enviados pela ESP32, com integração ao MQTT para transmissão contínua.
 
 ## Links Úteis
-[WOKWI](https://wokwi.com/projects/409862054851292161)
-[Vídeo Explicativo]()
+- [WOKWI](https://wokwi.com/projects/409862054851292161)
+- [Vídeo Explicativo](https://drive.google.com/file/d/1Knn8ppdBQ6mKsoJgNswNgvoh_FNgE-sx/view?usp=sharing)
 
 ## Autores
 - [Giulia Barbizan](https://github.com/Giulia-Rocha) RM:558084
