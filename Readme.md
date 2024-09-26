@@ -1,4 +1,4 @@
-# Near Guard
+# Near Guard 🏎️
 ## Descrição 📝
 Este projeto consiste na criação de um dispositivo inteligente para medir a distância entre o carro e obstáculos ou oponentes, ajudando pilotos a tomarem decisões mais precisas em ultrapassagens e durante a corrida 🏎️.
 
@@ -25,7 +25,7 @@ O dispositivo mede distâncias em tempo real, exibindo os resultados em uma tela
 - Protoboard
 
 ***SOFTWARE***
-- FIWARE Descomplicado
+- FIWARE Descomplicado => Acesse[aqui](https://github.com/fabiocabrini/fiware) a documentação.
 - Plataforma de Cloud (Neste Projeto foi usado **Azure**) 
 ## Como Construir ⚙️
 1. Montagem do Circuito 🧩:
