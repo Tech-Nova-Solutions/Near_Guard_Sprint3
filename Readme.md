@@ -18,7 +18,7 @@ O dispositivo mede distâncias em tempo real, exibindo os resultados em uma tela
 - Azure: O servidor em nuvem utilizado para hospedar o FIWARE.
 
 ## DRAFT DA AQUITETURA
- <img src="arqt_challenge.png"  />
+ <img src="arqt_challenge_1.png"  />
  
 ## Materiais Necessários ⚒️
   ***HARDWARE***
